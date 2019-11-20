@@ -9,7 +9,8 @@
 </head>
 <body>
 <H1> Carter Henry's Webpage </H1>
-	<p> </p>
+	<p> This is a webpage about me </p>
 	<img src= "vantine_linkedin_2555479.jpg" alt= "linkedin headshot" height="300" width="325">
+	<p><small> Above is my headshot for my Linkedin profile</small></p>
 </body>
 </html>

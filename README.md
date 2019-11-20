@@ -4,6 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title> Carter Henry's Webpage </title>
 	<style type="text/css">
+		P{font-family:"Times New Roman",Times,serif;font-size:15pt;color:darkred}
+		UL{font-family:"Times New Roman",Times,serif;font-size:15pt;color:darkred}
+		TR{font-family:"Times New Roman",Times,serif;font-size:15pt;color:black}
 
 	</style>
 </head>

@@ -10,5 +10,6 @@
 <body>
 <H1> Carter Henry's Webpage </H1>
 	<p> </p>
+	<img src= "vantine_linkedin_2555479.jpg" alt= "linkedin headshot" height="400" width="450"
 </body>
 </html>

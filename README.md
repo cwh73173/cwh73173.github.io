@@ -7,6 +7,8 @@
 		P{font-family:"Times New Roman",Times,serif;font-size:15pt;color:darkred}
 		UL{font-family:"Times New Roman",Times,serif;font-size:15pt;color:darkred}
 		TR{font-family:"Times New Roman",Times,serif;font-size:15pt;color:black}
+		BODY{background-color:#808080
+		.end{font-size:30pt;color:#000000;text-align:center}
 
 	</style>
 </head>
